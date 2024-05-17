@@ -14,4 +14,4 @@
 - Molecules are attracted to each other because intermolecular force of attraction.
 - Molecules move continuosly. Hence, they posses kinetic energy.
 - When the temperature of matter is increased the kinetice energy also increase and when the temperature decreases the kinetic energy also decreases hence the kinetic energy of molecules is directly proportional.
-
+### Properties of Solids
