@@ -46,3 +46,18 @@
 - Gas have no free surface.
 - Gas have most energy and move freely at high speeds.
 - Gas expand to fill all available space on heating.
+## Cohesion and Adhesion
+- The force of attraction between molecules of the same kind is known as cohesion. 
+- It kepps the molecules of a substance together.
+- The force of attraction between molecules of different substance is known as adhesion. 
+## Brownian motion 
+- In a liquids and gas the molecules move constantly in random direction. This motion is called brownian motion.
+## Change of state 
+* Change of state involves the  absorption or evolution of heat. The process of change one state to anothe occurs at different temperatures 
+for different substance. During the process, the temperature remains constant till the changeof state is complete. A change of state causes a change in physical properties but not in chemical properties.
+### Melting or Fusion
+* In solids, the molecules are closely packed and are held together by 
+strong forces. However, they vibrate constantly. When a solid is heated,
+the molecules vibrate faster. Starting from the outer surface, the molecules overcome the intermolecular force between them and move away from one another. The intermolecular space increases. The solid then becomes a liquid, starting from its outer surface. The temperature remains constant till all the molecules have absorbed enough energy to
+enter the liquid state.
+* The process by which a solid melts to form a liquid when heated is called melting or fusion this occurs at a fixed temperature at which a substance changes from solid state to its liquid state on heating is called the melting point of substance. 
