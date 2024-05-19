@@ -44,3 +44,6 @@
 - A hydrometer is an instrument that is used to measure the density of liquids. 
 - It consist of long glass tube with a broad bulb at the bottom that contains a heavy liquid. 
 - A scale with relative densities is marked on the stem. To measure the density of given liquid, the hydrometer is allowed to float in the liquid. The level at which it flats in the liquid is a measure of the density of the liquid. 
+## Flotation and Sinking
+- All substance that have a relative density of less than 1, such as wood, cork and ice float on water. These substance have a lower density than water, and thus have less mass packed in a given volume than water does.
+- All substance that have a relative density of more that 1 such as lead, copper and iron, sink in water, These substance have a higher density than water, and thus have more mass packed in a given volume that water does. 
