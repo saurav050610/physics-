@@ -24,3 +24,23 @@
 - The mass of the liquid is determined. This is done by calculatig the mas of empty conatiner such as beaker, and then calculating the mass of the same container after the liquid has been poured in it. The difference in the mass give the mass of the liquid.
 - Next, the volume of the liquid is found.
 - Finally, the density of the liquid is calculated using the standard formulae density=mass/volume.
+## Density bottle
+- A density bottle is used to calculate the density of liquids. It is a small, thin walled glass bottle. It has a stopper with a small hole. When the bottle is filled with a liquid and a stopper inserted, excees liquid rise up in the hole and drains away. Thus, the density bottle always contains the same volume of liquid each time it is filled. Density bottles are usually of capacity 25ml or 50ml.
+# Relative density 
+- Relative density is a measure of hown dense a substance is in relation to a standard substance.
+- The usual standard used for solids and liquids is water at 4^.c.
+- The relative density of a substance is the ration of density of substance to density of water at 4^.c.
+- Relative density is also known as specific gravity. 
+# Formulae of Relative density 
+- M1= density of empty bottle.
+- M2= density of bottle filled with any liquid.
+- M3= density of water/ IF any other liquid is given there. 
+## Density of Matter in the Three States
+- In solids, the particles are packed closely together. This results in more mass being packed within a small volume. 
+- In liquids, The particles are as closely packed as in solids. Thus, less mass is packed in small volume. A substance usually has lower density in the liquid state than in the solid state. Most liquids have lower density than solids.
+- In gass, the particles are very loosely in the same volume. Gases thus have a much lower density than solids and liquids.
+- Not all liquids are denser than solids ex:- cork (with a density of about 0.25g/cm^3) is a solid but is less dense than water (with a density of 1g/cm^3)
+## Hydrometer 
+- A hydrometer is an instrument that is used to measure the density of liquids. 
+- It consist of long glass tube with a broad bulb at the bottom that contains a heavy liquid. 
+- A scale with relative densities is marked on the stem. To measure the density of given liquid, the hydrometer is allowed to float in the liquid. The level at which it flats in the liquid is a measure of the density of the liquid. 
