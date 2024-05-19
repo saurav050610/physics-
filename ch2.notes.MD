@@ -46,4 +46,15 @@
 - A scale with relative densities is marked on the stem. To measure the density of given liquid, the hydrometer is allowed to float in the liquid. The level at which it flats in the liquid is a measure of the density of the liquid. 
 ## Flotation and Sinking
 - All substance that have a relative density of less than 1, such as wood, cork and ice float on water. These substance have a lower density than water, and thus have less mass packed in a given volume than water does.
-- All substance that have a relative density of more that 1 such as lead, copper and iron, sink in water, These substance have a higher density than water, and thus have more mass packed in a given volume that water does. 
+- All substance that have a relative density of more that 1 such as lead, copper and iron, sink in water, These substance have a higher density than water, and thus have more mass packed in a given volume that water does.
+## Displacement and Floatation 
+- Are the relative density of a liquid and a solid the only things  that determine whether an object floats or sinks in water? If so, why 
+does a steal float? Both objects are made of the same substance and thus the relative densities are the same too. This difference can be explained using the principle of displacement. 
+- When an object sinks in water, there are two forces that act on it:-
+- The weight of the object pushes the object into the liquid, displacing
+part of the liquid. 
+- The buoyant force pushes the object up.
+- The buoyant force pushes the object up.
+- The buoyant force or upthrust acting on an object is equal to the weight of the fluid (liquid or gas) that is displaced by the object. 
+- Let us look at three cases:-
+- When the weight of the object is more than the buoyant force pushing it up (that is, the weight of water that it displaces), the resultant force pushes the object down. In this case, the object sinks in water         
